@@ -11,7 +11,7 @@ A lexical analyzer for Python language.
 
 ## Compilation
 
-1. Open a shell in the same folder that Makefile is located (probably, p1Compiladores).
+1. Open a shell in the same folder that Makefile is located (probably, LexicalAnalyzer).
 2. Execute:
 
 		$ make
